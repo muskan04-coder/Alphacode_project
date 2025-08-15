@@ -1,4 +1,4 @@
-# Alphacode_project
+# Alphacode_project_StudentGradeTracker
 📚 Student Grade Tracker — CodeAlpha Internship
 📌 Project Overview
 
